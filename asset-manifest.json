@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/servicellsjk/static/css/main.abaeca11.chunk.css",
+    "main.js": "/servicellsjk/static/js/main.61d02132.chunk.js",
+    "main.js.map": "/servicellsjk/static/js/main.61d02132.chunk.js.map",
+    "runtime-main.js": "/servicellsjk/static/js/runtime-main.54a641ed.js",
+    "runtime-main.js.map": "/servicellsjk/static/js/runtime-main.54a641ed.js.map",
+    "static/css/2.0d309abc.chunk.css": "/servicellsjk/static/css/2.0d309abc.chunk.css",
+    "static/js/2.9631525b.chunk.js": "/servicellsjk/static/js/2.9631525b.chunk.js",
+    "static/js/2.9631525b.chunk.js.map": "/servicellsjk/static/js/2.9631525b.chunk.js.map",
+    "static/js/3.575e874e.chunk.js": "/servicellsjk/static/js/3.575e874e.chunk.js",
+    "static/js/3.575e874e.chunk.js.map": "/servicellsjk/static/js/3.575e874e.chunk.js.map",
+    "index.html": "/servicellsjk/index.html",
+    "static/css/2.0d309abc.chunk.css.map": "/servicellsjk/static/css/2.0d309abc.chunk.css.map",
+    "static/css/main.abaeca11.chunk.css.map": "/servicellsjk/static/css/main.abaeca11.chunk.css.map",
+    "static/js/2.9631525b.chunk.js.LICENSE.txt": "/servicellsjk/static/js/2.9631525b.chunk.js.LICENSE.txt",
+    "static/media/background.6626ff02.mp4": "/servicellsjk/static/media/background.6626ff02.mp4",
+    "static/media/phone.27f3e79e.png": "/servicellsjk/static/media/phone.27f3e79e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a641ed.js",
+    "static/css/2.0d309abc.chunk.css",
+    "static/js/2.9631525b.chunk.js",
+    "static/css/main.abaeca11.chunk.css",
+    "static/js/main.61d02132.chunk.js"
+  ]
+}
